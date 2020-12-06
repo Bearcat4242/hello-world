@@ -6,4 +6,4 @@ I'm trying to analyze shakespeare.
 
 But I can't.
 
-Because I Github is confusing. 
+Because Github is confusing. 
